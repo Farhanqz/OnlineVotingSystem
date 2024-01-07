@@ -24,7 +24,7 @@ if($insert){
 else{
     echo'
     <script>
-    alert("some error occured");
+    alert("an error occured ");
     window.location="../routes/register.html";
     </script>
     ';
