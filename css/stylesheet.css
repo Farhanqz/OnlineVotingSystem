@@ -1,0 +1,78 @@
+body{
+    text-align:center;
+    background-color: aquamarine;
+}
+#imagecss {
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 5px;
+    width: 30%;
+}
+
+#headersection{
+    padding: 10px;
+}
+#headersection h1{
+    font-family: cursive;
+}
+input{
+    padding: 10px;
+    border-radius: 5px;
+}
+#dropbox{
+    padding: 10px;
+    border-radius: 5px;
+    width: 10%;
+}
+#loginbtn{
+    padding: 10px;
+    font-size: 15px;
+    border-radius: 5px;
+    background-color: brown;
+    color: azure;
+
+}
+
+#logoutbtn{
+    padding: 5px;
+    font-size: 15px;
+    border-radius: 5px;
+    background-color: brown;
+    color: azure;
+    float: right;    
+
+}
+.column {
+    float: left;
+    width: 50%;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+#backbtn{
+    padding: 5px;
+    font-size: 15px;
+    border-radius: 5px;
+    background-color: brown;
+    color: azure;
+    float: left; 
+
+}
+#profile {
+    width: 40%;
+    float: left;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 5px;
+}  
+#grouplist {
+    width: 40%;
+    float: right;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
