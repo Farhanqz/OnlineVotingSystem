@@ -15,7 +15,7 @@ if($password==$cpassword){
 if($insert){
     echo'
     <script>
-    alert("registration successful");
+    alert("You are registered successfully");
     window.location="../";
     </script>
     ';
